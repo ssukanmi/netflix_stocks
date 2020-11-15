@@ -1,2 +1,2 @@
 # netflix_stocks
-Data visualization using seaborn and matplotlib
+Visualizing netflix stocks for each quater in 2017
